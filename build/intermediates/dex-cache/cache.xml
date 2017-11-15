@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/gabrieledett/.android/build-cache/b88cfe96ebdd4e19d4361f1773a48f89a477564e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/gabrieledett/AndroidStudioProjects/MockingSpongeBobtextconverter/app/build/intermediates/pre-dexed/debug/classes_d533c8907bd6652e3dc20525dcc509096ab9b5b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrieledett/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/gabrieledett/AndroidStudioProjects/MockingSpongeBobtextconverter/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_9ea7fabf7ebfd0c3b33c8f873b087dbf68d51a96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrieledett/.android/build-cache/380af81c5a0dda28bd4efb6dc4fdee5e94d6ef3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gabrieledett/AndroidStudioProjects/MockingSpongeBobtextconverter/app/build/intermediates/pre-dexed/debug/classes_328226b97d40d8462f590aaf1338f5288ca541b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrieledett/.android/build-cache/91dcde48bc5aa34b5802b6b10ca3dd980a572a61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/gabrieledett/AndroidStudioProjects/MockingSpongeBobtextconverter/app/build/intermediates/pre-dexed/debug/classes_e80d1a455825fadea643d221ebd37b4c56fc63af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrieledett/.android/build-cache/2241069dd4e69eab24670186865470feae7bb960/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/gabrieledett/AndroidStudioProjects/MockingSpongeBobtextconverter/app/build/intermediates/pre-dexed/debug/classes_6edcd44ed42d3a51954b4212aefbb713dc6f15ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrieledett/.android/build-cache/a7771c2ab3eda0c26ecb96d03687bf308f169a42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/gabrieledett/AndroidStudioProjects/MockingSpongeBobtextconverter/app/build/intermediates/pre-dexed/debug/classes_9f08da9ad6afa23b2e97a63516b25956e88c39f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrieledett/.android/build-cache/9fc696db3062492c0387fa5b6da967d114286fe7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/gabrieledett/AndroidStudioProjects/MockingSpongeBobtextconverter/app/build/intermediates/pre-dexed/debug/classes_9891bf0d974abd3ef3821078020ced63a6af6365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrieledett/.android/build-cache/f6a3dacbca414a08ae9aea8cf59a5d8a8859d5fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/gabrieledett/AndroidStudioProjects/MockingSpongeBobtextconverter/app/build/intermediates/pre-dexed/debug/classes_781bce0b998416b4949b85cb114bc73a93dbfd28.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabrieledett/AndroidStudioProjects/MockingSpongeBobtextconverter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/gabrieledett/AndroidStudioProjects/MockingSpongeBobtextconverter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_43c90f8c3966678a6fdddf4ad335b44aeee2c7e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabrieledett/AndroidStudioProjects/MockingSpongeBobtextconverter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7b840bb10a794609690a4d00812e658e93793fbb">
+        <dex dex="/Users/gabrieledett/AndroidStudioProjects/MockingSpongeBobtextconverter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bfed3d2ba703c9ffb8352dccdd1f06972a5e94cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrieledett/.android/build-cache/e29d00ae849b682632b301a0362451bd6635acf2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/gabrieledett/AndroidStudioProjects/MockingSpongeBobtextconverter/app/build/intermediates/pre-dexed/debug/classes_a37e5daed19dd87614e3816562a88707b4ec3912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrieledett/.android/build-cache/63a4862a75aec60a2110d172ecf9961781d206d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/gabrieledett/AndroidStudioProjects/MockingSpongeBobtextconverter/app/build/intermediates/pre-dexed/debug/classes_dd4b4a17e5747d2581420b20b563703d0641b64a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrieledett/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/gabrieledett/AndroidStudioProjects/MockingSpongeBobtextconverter/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_08f9eea5f09a24d10138954868791841d95cd8c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrieledett/.android/build-cache/6468e30314bef56f2d65f213f177c3c9157eea35/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/gabrieledett/AndroidStudioProjects/MockingSpongeBobtextconverter/app/build/intermediates/pre-dexed/debug/classes_24a14f7ec847147a41010a2422e2894fee590451.jar" />
+    </item>
+
+</items>
